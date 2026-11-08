@@ -15,6 +15,8 @@ Materi pendamping workshop **Global Darussalam Academy, Yogyakarta** untuk siswa
 
 > Repository ini membagikan **PDF, bukan PPT/PPTX**. PDF merupakan ekspor presentasi sumber, bukan versi yang didesain ulang. Panduan melengkapi penjelasan dan memberi catatan tentang batasan, perubahan antarmuka, serta syarat layanan.
 
+QR code menuju repository tersedia di **slide penutup (halaman 36)** dan sebagai [gambar PNG siap pakai](assets/qr-workshop-gda.png).
+
 ![Peta workshop: pahami AI, praktik belajar dan mengajar, lalu periksa hasil bersama manusia](assets/peta-workshop.svg)
 
 ## Apa yang akan dihasilkan?
